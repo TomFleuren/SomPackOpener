@@ -9,7 +9,7 @@ Versie 1.1.
 Het bestand `Somtoday-Pack-Opener-1.1.zip` is de extensie. Dezelfde zip gaat naar de Chrome Web Store en naar GitHub. Op GitHub staat hij eerder online, omdat de store hem eerst beoordeelt.
 
 1. Download `Somtoday-Pack-Opener-1.1.zip`.
-2. Pak de zip uit. In die map staat `manifest.json`.
+2. Pak de zip uit.
 3. Open `chrome://extensions`.
 4. Zet **Ontwikkelaarsmodus** aan.
 5. Kies **Uitgepakte extensie laden** en wijs die uitgepakte map aan.
